@@ -1,0 +1,6 @@
+Targa: AA111BB
+Marca: Alfa Romeo
+Modello: GT
+Targa: CC222BB
+Marca: Porsche
+Modello: 911
